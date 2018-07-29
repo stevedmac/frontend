@@ -27,7 +27,7 @@ body {
     height: 106px;
     background-color: #164F9C;
     position: fixed;
-    margin-top: -100px;
+    margin-top: -150px;
 }
 
 .header {
@@ -143,7 +143,7 @@ h2 {
 
 #table-scroll {
   overflow: auto;
-    height: 580px;
+    height: 520px;
 }
 
 #table-wrapper {
